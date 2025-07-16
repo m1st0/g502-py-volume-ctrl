@@ -1,0 +1,3 @@
+# Set permissions for device so volume controls can be applied to PipeWire sinks.
+KERNEL=="event*", TAG+="uaccess"
+KERNEL=="uinput", TAG+="uaccess"
