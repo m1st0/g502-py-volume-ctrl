@@ -2,7 +2,7 @@
 # Helps mapping a mouse from udevmon to lower volume correctly
 # against easyeffects running.
 
-# Copyright (c) 2025 Maulik Mistry mistry01@gmail.com#
+# Copyright (c) 2025 Maulik Mistry mistry01@gmail.com
 # Author: Maulik Mistry
 # Please share support: https://www.paypal.com/paypalme/m1st0
 
